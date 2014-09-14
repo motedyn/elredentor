@@ -1,0 +1,48 @@
+.navbar-nav {
+    float: right;
+    margin: 3px;
+    border-radius:0px;
+}
+.navbar{
+    border-radius:0px;
+}
+.navbar-nav {
+    float: right;
+    margin: 3px;
+    border-radius:0px;
+}
+
+a{
+	font-weight: bold;
+}
+
+.thumbnail {
+    width: 85%;
+}
+
+/****************MODAL***************/
+
+
+.modal-dialog {
+    margin: 12% auto;
+}
+h4{
+	text-align: center;
+}
+h5{
+	text-align: center;
+	font-weight: bold;
+}
+td{
+	font-weight: lighter;
+	font-family: verdana;
+}
+.modal-body {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.btn-danger{
+position: static; 
+margin-right: 20%;
+}
