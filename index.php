@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="ercss/inicio.css">
     <script type="text/javascript" src="js/jquery.js"></script> 
     <script type="text/javascript" src="js/bootstrap.js"></script>
-    <title>El Redentor</title>
+    <title>El Redentor1</title>
     
 </head>
 <body id="body2">
