@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="utf-8">
@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="ercss/inicio.css">
     <script type="text/javascript" src="js/jquery.js"></script> 
     <script type="text/javascript" src="js/bootstrap.js"></script>
-    <title>El Redentor</title>
+    <title>Redentor</title>
     
 </head>
 <body id="body2">
