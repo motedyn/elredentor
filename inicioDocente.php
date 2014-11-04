@@ -9,9 +9,9 @@
     <title>El Redentor</title>
     
 </head>
-<body id="body1">
+<body id="docentebody">
 
-	<nav class="navbar navbar-inverse">
+	<nav class="navbar navbar-default">
 		<a class="navbar-brand">Bienvenido docente:</a>
 		<ul class="nav navbar-nav">
 			<li class="active">
@@ -38,7 +38,7 @@
 			    <div class="thumbnail">
 			    	<a data-toggle="modal" href='#notas'>
 			      		<img src="icon/notas.png" width="100px;"></a>
-			      			<center><h3>Notas Alumnos</h3></center>
+			      			<center><h3>Ingresar Notas</h3></center>
 			    </div>
 			</div>
 		</div>
@@ -117,23 +117,16 @@
 						<div class="col-md-2">
 							<h5>Nivel</h5>
 							<select class="form-control" autocomplete="off">
-							  	<option>Seleccione</option>
-							  	<option>Android</option>
-							  	<option>IOS</option>
-							  	<option>Firefox OS</option>
-							  	<option>Windows Phone</option>
-							  	<option>Otro</option>
+							  	<option></option>
+							  	<option></option>
+							  	<option></option>
 							</select>
 					    </div>
 					    <div class="col-md-2">
 							<h5>Bimestre</h5>
 							<select class="form-control" autocomplete="off">
-							  	<option>Seleccione</option>
-							  	<option>Android</option>
-							  	<option>IOS</option>
-							  	<option>Firefox OS</option>
-							  	<option>Windows Phone</option>
-							  	<option>Otro</option>
+							  	<option></option>
+							  	<option></option>
 							</select>
 				   		 </div>
 			    	</div><br>
@@ -141,23 +134,17 @@
 						<div class="col-md-2">
 							<h5>Grado</h5>
 							<select class="form-control" autocomplete="off">
-							  	<option>Seleccione</option>
-							  	<option>Android</option>
-							  	<option>IOS</option>
-							  	<option>Firefox OS</option>
-							  	<option>Windows Phone</option>
-							  	<option>Otro</option>
+							  	<option></option>
+							  	<option></option>
+							  	<option></option>
 							</select>
 					    </div>
 					    <div class="col-md-2">
 							<h5>Sección</h5>
 							<select class="form-control" autocomplete="off">
-							  	<option>Seleccione</option>
-							  	<option>Android</option>
-							  	<option>IOS</option>
-							  	<option>Firefox OS</option>
-							  	<option>Windows Phone</option>
-							  	<option>Otro</option>
+							  	<option></option>
+							  	<option></option>
+							  	<option></option>
 							</select>
 				   		 </div>
 			    	</div><br>
@@ -165,12 +152,9 @@
 						<div class="col-md-2">
 							<h5>Curso</h5>
 							<select class="form-control" autocomplete="off">
-							  	<option>Seleccione</option>
-							  	<option>Android</option>
-							  	<option>IOS</option>
-							  	<option>Firefox OS</option>
-							  	<option>Windows Phone</option>
-							  	<option>Otro</option>
+							  	<option></option>
+							  	<option></option>
+							  	<option></option>
 							</select>
 					    </div>
 			    	</div>

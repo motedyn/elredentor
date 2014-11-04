@@ -1,4 +1,4 @@
-#docentebody{
+#direccionbody{
     background-color: #34495e;
 }
 .navbar {
@@ -26,22 +26,19 @@ a{
     margin: 12% auto;
 }
 h4{
-	text-align: center;
+    text-align: center;
 }
 h5{
-	text-align: center;
-	font-weight: bold;
+    text-align: center;
+    font-weight: bold;
 }
 td{
-	font-weight: lighter;
-	font-family: verdana;
+    font-weight: lighter;
+    font-family: verdana;
 }
 .modal-body {
     width: 90%;
-    margin-left: 5%;
+    margin-left: 0%;
 }
 
-.btn-danger{
-position: static; 
-margin-right: 20%;
-}
+

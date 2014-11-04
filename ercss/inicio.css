@@ -31,8 +31,9 @@ h3{/*titutlo sesion*/
   font-family: arial;
   font-size: 15pt;
 }
+.navbar {
+  background-color: rgba(255,255,255,0.8);
+}
 .navbar-nav {
     float: right;
-    margin: 3px;
-    border-radius:0px;
-}
+ }
